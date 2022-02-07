@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pflix/static/css/main.928f87d3.css",
+    "main.js": "/pflix/static/js/main.4047252c.js",
+    "index.html": "/pflix/index.html",
+    "main.928f87d3.css.map": "/pflix/static/css/main.928f87d3.css.map",
+    "main.4047252c.js.map": "/pflix/static/js/main.4047252c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928f87d3.css",
+    "static/js/main.4047252c.js"
+  ]
+}
