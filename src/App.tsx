@@ -25,7 +25,6 @@ function App() {
         <Route path={routes.TV_DETAIL} element={<Tv />}></Route>
         <Route path={routes.SEARCH} element={<Search />}></Route>
         <Route path={routes.SEARCH_DETAIL} element={<Search />}></Route>
-        <Route path={"/link"} element={<Link />}></Route>
       </Routes>
     </BrowserRouter>
   );
